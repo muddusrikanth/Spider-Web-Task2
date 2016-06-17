@@ -9,6 +9,7 @@ canvas,
 ctx,
 keystate,
 
+
 paddle1 = {
 	x: null,
 	y: null,
